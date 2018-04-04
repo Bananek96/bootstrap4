@@ -1,1 +1,7 @@
 /* Twoje style */
+input: invalid{
+  vorder: 2x dashed red;
+}
+input: valid{
+  vorder: 2x solid black;
+}
