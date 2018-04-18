@@ -5,6 +5,6 @@ input: invalid{
 input: valid{
   vorder: 2x solid black;
 }
-#canvas{
-  background-color: red;
+.canvas1{
+  border: 1px solid grey;
 }
