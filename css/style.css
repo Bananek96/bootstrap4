@@ -5,3 +5,6 @@ input: invalid{
 input: valid{
   vorder: 2x solid black;
 }
+#canvas{
+  background-color: red;
+}
